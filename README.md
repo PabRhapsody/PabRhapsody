@@ -1,5 +1,5 @@
 - Soy PAB
-- I can't chose a single thing to do but...
+- I can't pick just one hobby, but...
    - yolo
    - swag
 - 90% of this is web stuff
