@@ -2,7 +2,9 @@
 - I can't chose a single thing to do but...
    - yolo
    - swag
-- Lo siento ):
+- 90% of this is web stuff
+- 10% are random doohickies
+- The extended PAB lore does not end with code
 
 <!---
 PabRhapsody/PabRhapsody is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
